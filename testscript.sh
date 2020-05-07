@@ -1,0 +1,1 @@
+xdpyinfo | grep resolution

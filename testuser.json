@@ -1,0 +1,9 @@
+{
+    "id":"2147483647",
+    "user_name": "test_user",
+    "email": "thisisatest@gmail.com",
+    "first_name": "Johnny",
+    "last_name": "Test",
+    "password": "password",
+    "karma":"0"
+}
